@@ -1,4 +1,4 @@
-# TinyMCE for your Symfony apps and forms
+# TinyMCE for your Symfony apps and forms fork
 
 ## Getting started
 
